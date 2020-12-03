@@ -114,3 +114,19 @@ article, section {
 footer {
     margin-top: 10px;
 }
+
+/* || table */
+
+table {
+    margin: 0 auto;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}

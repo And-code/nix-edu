@@ -18,7 +18,7 @@
     <nav>
         <ul>
             <li><span>Главная</span></li>
-            <li><a href="#">Урок 1</a></li>
+            <li><a href="lesson1.php">Урок 1</a></li>
             <li><a href="#">Урок 2</a></li>
             <li><a href="#">Урок 3</a></li>
         </ul>
