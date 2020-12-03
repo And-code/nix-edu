@@ -55,7 +55,7 @@ header {
 }
 
 main, header, nav, article, aside, footer, section {
-    background-color: rgba(0,255,0,0.5);
+    background-color: rgba(201, 229, 255, 0.5);
     padding: 1%;
 }
 
@@ -119,6 +119,7 @@ footer {
 
 table {
     margin: 0 auto;
+    font-size: 1.5rem;
 }
 
 table, th, td {
@@ -129,4 +130,18 @@ table, th, td {
 th, td {
     padding: 10px;
     text-align: left;
+}
+
+/* || table number colors */
+.number-1 {
+    color: red;
+}
+.number-2 {
+    color: green;
+}
+.number-3 {
+    color: yellow;
+}
+.number-4 {
+    color: blue;
 }
