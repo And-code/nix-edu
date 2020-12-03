@@ -20,7 +20,7 @@
             <li><a href="index.php">Главная</a></li>
             <li><span>Урок 1</span> </li>
             <li><a href="lesson2.php">Урок 2</a></li>
-            <li><a href="#">Урок 3</a></li>
+            <li><a href="lesson3.php">Урок 3</a></li>
         </ul>
     </nav>
 </header>
